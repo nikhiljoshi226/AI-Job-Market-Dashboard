@@ -41,5 +41,8 @@ Data cleaning and transformation were performed in Power Query within Power BI D
 ## Notes
 The full `.pbix` file is stored separately due to file size constraints.
 
+## Project Access
+- [Power BI File (.pbix)](https://drive.google.com/file/d/1qxMgZw8HMowkdFixl-9wDDplfBzAv-3u/view?usp=sharing)
+
 ## Project Status
 Completed in Power BI Desktop. Repository prepared for project showcase and documentation.
